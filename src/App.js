@@ -45,7 +45,7 @@ const App = () => {
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
             <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', margin: '10vh 0' }}> 
                 <img 
-                    src="/IMG_8594.jpeg" 
+                    src="./IMG_8594.jpeg" 
                     alt=""
                     style={{ width: '40%', height: '80vh' }}
                 />
@@ -63,7 +63,7 @@ const App = () => {
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
             <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', margin: '10vh 0' }}> 
                 <img 
-                    src="/IMG_8597.jpeg" 
+                    src="./IMG_8597.jpeg" 
                     alt=""
                     style={{ width: '40%', height: '80vh' }}
                 />
@@ -81,7 +81,7 @@ const App = () => {
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
             <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', margin: '10vh 0' }}> 
                 <img 
-                    src="/IMG_8600.JPG" 
+                    src="./IMG_8600.JPG" 
                     alt=""
                     style={{ width: '40%', height: '80vh' }}
                 />
@@ -99,7 +99,7 @@ const App = () => {
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
             <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', margin: '10vh 0' }}> 
                 <img 
-                    src="/IMG_8609.JPG" 
+                    src="./IMG_8609.JPG" 
                     alt=""
                     style={{ width: '60%', height: '80vh' }}
                 />
@@ -120,7 +120,7 @@ const App = () => {
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
             <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', margin: '10vh 0' }}> 
                 <img 
-                    src="/IMG_2681.jpeg" 
+                    src="./IMG_2681.jpeg" 
                     alt=""
 
                     style={{ width: '60%', height: '80vh' }}
@@ -144,7 +144,7 @@ const App = () => {
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
         <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', margin: '10vh 0' }}> 
             <video 
-                src="/IMG_8651.mp4" 
+                src="./IMG_8651.mp4" 
                 style={{ width: '60%', height: '80vh' }}
                 controls
             >
@@ -163,7 +163,7 @@ const App = () => {
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
             <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', margin: '10vh 0' }}> 
                 <img 
-                    src="/IMG_2695.jpeg" 
+                    src="./IMG_2695.jpeg" 
                     alt=""
 
                     style={{ width: '60%', height: '80vh' }}
@@ -182,7 +182,7 @@ const App = () => {
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
             <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', margin: '10vh 0' }}> 
                 <img 
-                    src="/IMG_2716.jpeg" 
+                    src="./IMG_2716.jpeg" 
                     alt=""
                     style={{ width: '35%', height: '80vh' }}
                 />
@@ -200,12 +200,12 @@ const App = () => {
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
             <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', margin: '10vh 0' }}> 
                 <img 
-                    src="/IMG_8675.jpeg" 
+                    src="./IMG_8675.jpeg" 
                     alt=""
                     style={{ width: '60%', height: '80vh' }}
                 />
                 <img 
-                    src="/IMG_8674.jpeg" 
+                    src="./IMG_8674.jpeg" 
                     alt=""
                     style={{ width: '60%', height: '80vh' }}
                 />
@@ -224,7 +224,7 @@ const App = () => {
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
             <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', margin: '10vh 0' }}> 
                 <img 
-                    src="/IMG_8748.jpeg" 
+                    src="./IMG_8748.jpeg" 
                     alt=""
                     style={{ width: '35%', height: '80vh' }}
                 />
@@ -244,7 +244,7 @@ const App = () => {
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
             <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', margin: '10vh 0' }}> 
                 <img 
-                    src="/IMG_2764.jpeg" 
+                    src="./IMG_2764.jpeg" 
                     alt=""
                     style={{ width: '35%', height: '80vh' }}
                 />
@@ -266,7 +266,7 @@ const App = () => {
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
         <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', margin: '10vh 0' }}> 
             <video 
-                src="/IMG_2769.mp4" 
+                src="./IMG_2769.mp4" 
                 style={{ width: '60%', height: '80vh' }}
                 controls
             >
@@ -288,12 +288,12 @@ const App = () => {
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
             <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', margin: '10vh 0' }}> 
                 <img 
-                    src="/IMG_2788.jpeg" 
+                    src="./IMG_2788.jpeg" 
                     alt=""
                     style={{ width: '25%', height: '70vh' }}
                 />
                                 <img 
-                    src="/IMG_2792.jpeg" 
+                    src="./IMG_2792.jpeg" 
                     alt=""
                     style={{ width: '30%', height: '70vh' }}
                 />
@@ -315,7 +315,7 @@ const App = () => {
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
             <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', margin: '10vh 0' }}> 
                 <img 
-                    src="/IMG_2831.jpeg" 
+                    src="./IMG_2831.jpeg" 
                     alt=""
                     style={{ width: '35%', height: '80vh' }}
                 />
@@ -337,7 +337,7 @@ const App = () => {
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
             <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', margin: '10vh 0' }}> 
                 <img 
-                    src="/IMG_9284.JPG" 
+                    src="./IMG_9284.JPG" 
                     alt=""
                     style={{ width: '50%', height: '80vh' }}
                 />
@@ -359,7 +359,7 @@ const App = () => {
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
             <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', margin: '10vh 0' }}> 
                 <img 
-                    src="/IMG_9286.JPG" 
+                    src="./IMG_9286.JPG" 
                     alt=""
                     style={{ width: '45%', height: '80vh' }}
                 />
@@ -381,7 +381,7 @@ const App = () => {
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
             <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', margin: '10vh 0' }}> 
                 <img 
-                    src="/IMG_9287.JPG" 
+                    src="./IMG_9287.JPG" 
                     alt=""
                     style={{ width: '35%', height: '80vh' }}
                 />
@@ -404,7 +404,7 @@ const App = () => {
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
             <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', margin: '10vh 0' }}> 
                 <img 
-                    src="/IMG_0732.JPG" 
+                    src="./IMG_0732.JPG" 
                     alt=""
                     style={{ width: '35%', height: '80vh' }}
                 />
@@ -427,7 +427,7 @@ const App = () => {
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
             <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', margin: '10vh 0' }}> 
                 <img 
-                    src="/IMG_0731.JPG" 
+                    src="./IMG_0731.JPG" 
                     alt=""
                     style={{ width: '45%', height: '80vh' }}
                 />
@@ -450,7 +450,7 @@ const App = () => {
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
             <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', margin: '10vh 0' }}> 
                 <img 
-                    src="/IMG_0735.JPG" 
+                    src="./IMG_0735.JPG" 
                     alt=""
                     style={{ width: '40%', height: '80vh' }}
                 />
@@ -473,7 +473,7 @@ const App = () => {
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
             <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', margin: '10vh 0' }}> 
                 <img 
-                    src="/IMG_1054.jpeg" 
+                    src="./IMG_1054.jpeg" 
                     alt=""
                     style={{ width: '45%', height: '80vh' }}
                 />
@@ -496,7 +496,7 @@ const App = () => {
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
             <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', margin: '10vh 0' }}> 
                 <img 
-                    src="/IMG_1383.jpeg" 
+                    src="./IMG_1383.jpeg" 
                     alt=""
                     style={{ width: '45%', height: '80vh' }}
                 />
@@ -519,12 +519,12 @@ const App = () => {
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
             <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', margin: '10vh 0' }}> 
                 <img 
-                    src="/IMG_1386.jpeg" 
+                    src="./IMG_1386.jpeg" 
                     alt=""
                     style={{ width: '45%', height: '80vh' }}
                 />
                 <img 
-                    src="/IMG_1384.jpeg" 
+                    src="./IMG_1384.jpeg" 
                     alt=""
                     style={{ width: '45%', height: '80vh' }}
                 />
@@ -547,7 +547,7 @@ const App = () => {
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
         <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', margin: '10vh 0' }}> 
             <video 
-                src="/IMG_1390.mp4" 
+                src="./IMG_1390.mp4" 
                 style={{ width: '60%', height: '80vh' }}
                 controls
             >
@@ -571,7 +571,7 @@ const App = () => {
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
         <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', margin: '10vh 0' }}> 
             <video 
-                src="/IMG_1391.mp4" 
+                src="./IMG_1391.mp4" 
                 style={{ width: '60%', height: '80vh' }}
                 controls
             >
@@ -596,7 +596,7 @@ const App = () => {
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
         <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', margin: '10vh 0' }}> 
             <video 
-                src="/IMG_1392.mp4" 
+                src="./IMG_1392.mp4" 
                 style={{ width: '60%', height: '80vh' }}
                 controls
             >
@@ -616,7 +616,7 @@ const App = () => {
   <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
             <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', margin: '10vh 0' }}> 
                 <img 
-                    src="/IMG_1397.jpeg" 
+                    src="./IMG_1397.jpeg" 
                     alt=""
                     style={{ width: '45%', height: '80vh' }}
                 />
@@ -641,7 +641,7 @@ const App = () => {
   <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
             <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', margin: '10vh 0' }}> 
                 <img 
-                    src="/IMG_1398.jpeg" 
+                    src="./IMG_1398.jpeg" 
                     alt=""
                     style={{ width: '45%', height: '80vh' }}
                 />
@@ -666,7 +666,7 @@ const App = () => {
   <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
         <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', margin: '10vh 0' }}> 
             <video 
-                src="/IMG_1401.mp4" 
+                src="./IMG_1401.mp4" 
                 style={{ width: '60%', height: '80vh' }}
                 controls
             >
@@ -692,7 +692,7 @@ const App = () => {
   <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
             <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', margin: '10vh 0' }}> 
                 <img 
-                    src="/IMG_1428.jpeg" 
+                    src="./IMG_1428.jpeg" 
                     alt=""
                     style={{ width: '45%', height: '80vh' }}
                 />
@@ -717,7 +717,7 @@ const App = () => {
   <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
             <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', margin: '10vh 0' }}> 
                 <img 
-                    src="/IMG_1435.jpeg" 
+                    src="./IMG_1435.jpeg" 
                     alt=""
                     style={{ width: '45%', height: '80vh' }}
                 />
@@ -743,7 +743,7 @@ const App = () => {
   <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
             <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', margin: '10vh 0' }}> 
                 <img 
-                    src="/IMG_1445.jpeg" 
+                    src="./IMG_1445.jpeg" 
                     alt=""
                     style={{ width: '38%', height: '80vh' }}
                 />
@@ -767,7 +767,7 @@ const App = () => {
   <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
             <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', margin: '10vh 0' }}> 
                 <img 
-                    src="/IMG_1454.jpeg" 
+                    src="./IMG_1454.jpeg" 
                     alt=""
                     style={{ width: '60%', height: '80vh' }}
                 />
